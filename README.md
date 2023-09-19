@@ -27,16 +27,17 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4)
 
 
-## Notes
+## Notes (Challenges)
 
-Describe any challenges encountered while building the app.
+-  The biggest challenge for me was to understand the swift commands
+-  Declaring functions and understanding their properties
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Muhammad Umair Jamil]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
